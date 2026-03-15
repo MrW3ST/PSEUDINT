@@ -1,4 +1,4 @@
-# OSINT Username Checker
+# PSEUDINT
 
 > **Usage légal uniquement / Legal use only**
 
@@ -11,7 +11,7 @@ An OSINT tool to search a username across 30+ platforms simultaneously.
 
 ### Présentation
 
-**OSINT Username Checker** est un outil de renseignement en source ouverte (OSINT) permettant de vérifier en quelques secondes si un nom d'utilisateur est enregistré sur une trentaine de plateformes populaires : réseaux sociaux, plateformes de développement, jeux vidéo, streaming, forums, etc.
+**PSEUDINT** est un outil de renseignement en source ouverte (OSINT) permettant de vérifier en quelques secondes si un nom d'utilisateur est enregistré sur une trentaine de plateformes populaires : réseaux sociaux, plateformes de développement, jeux vidéo, streaming, forums, etc.
 
 L'interface possède une esthétique rétro-terminal avec un thème sombre (Dracula) et un thème clair disponibles.
 
@@ -82,7 +82,7 @@ osint-tool/
 
 ### Overview
 
-**OSINT Username Checker** is an open-source intelligence (OSINT) tool that checks in seconds whether a username is registered on 30+ popular platforms: social networks, developer platforms, gaming, streaming, forums, and more.
+**PSEUDINT** is an open-source intelligence (OSINT) tool that checks in seconds whether a username is registered on 30+ popular platforms: social networks, developer platforms, gaming, streaming, forums, and more.
 
 The interface features a retro terminal aesthetic with a dark (Dracula) and a light theme available.
 
