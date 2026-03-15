@@ -110,7 +110,7 @@ async def scan(username: str):
 
 @app.get("/api/quit")
 async def quit_server():
-    threading.Thread(target=lambda: (time.sleep(0.3), os.kill(os.getpid(), signal.SIGTERM)), daemon=True).start()
+    threading.Thread(target=lambda: (time.sleep(0.3), os.killpg(os.getpgid(0), signal.SIGINT)), daemon=True).start()
     return {"status": "bye"}
 
 
